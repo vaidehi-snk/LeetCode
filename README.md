@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaidehi-snk/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaidehi-snk/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/vaidehi-snk/LeetCode/tree/master/0054-spiral-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaidehi-snk/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaidehi-snk/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaidehi-snk/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vaidehi-snk/LeetCode/tree/master/0054-spiral-matrix) |
 | [0733-flood-fill](https://github.com/vaidehi-snk/LeetCode/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/vaidehi-snk/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Number Theory
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vaidehi-snk/LeetCode/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/vaidehi-snk/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vaidehi-snk/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vaidehi-snk/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
