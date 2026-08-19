@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/vaidehi-snk/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vaidehi-snk/LeetCode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/vaidehi-snk/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/vaidehi-snk/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vaidehi-snk/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vaidehi-snk/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vaidehi-snk/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaidehi-snk/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0560-subarray-sum-equals-k](https://github.com/vaidehi-snk/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vaidehi-snk/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1386-cinema-seat-allocation](https://github.com/vaidehi-snk/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vaidehi-snk/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaidehi-snk/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vaidehi-snk/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vaidehi-snk/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/vaidehi-snk/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vaidehi-snk/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vaidehi-snk/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/vaidehi-snk/LeetCode/tree/master/0029-divide-two-integers) |
+| [1386-cinema-seat-allocation](https://github.com/vaidehi-snk/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vaidehi-snk/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vaidehi-snk/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vaidehi-snk/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
