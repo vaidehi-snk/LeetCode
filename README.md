@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vaidehi-snk/LeetCode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/vaidehi-snk/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/vaidehi-snk/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vaidehi-snk/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
 | ------- |
